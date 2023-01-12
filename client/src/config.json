@@ -1,0 +1,6 @@
+{
+  "bundlerUrl": "",
+  "rpcUrl": "https://rpc-mumbai.maticvigil.com/",
+  "entryPoint": "0x1306b01bC3e4AD202612D3843387e94737673F53",
+  "simpleAccountFactory": "0xc99963686CB64e3B98DF7E877318D02D85DFE326"
+}
